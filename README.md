@@ -1,4 +1,4 @@
-#just nuewbie
+#just beginner
 
 <p align="center">
   <img src="https://scontent-sin1-1.xx.fbcdn.net/v/t1.0-9/13227033_1381878968495573_471097199273437672_n.jpg?oh=a98e94edfbd27960ecc8ef3a5d2bcc2d&oe=57DF2497" width="350"/>
